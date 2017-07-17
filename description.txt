@@ -1,0 +1,5 @@
+Melee To Throwing changes many melee weapons that seem like they should be throwing weapons, into the "Throwing" damage type.
+
+This mod affects mainly boomerangs, but will also change weapons such as Daybreak, Flying Knife, Possessed Hatchet, Paladin's Hammer, Shadowflame Knife, and Vampire Knives to be the Throwing type as well.
+
+Any similar weapons to the ones listed above that come from mods will also be changed over. This is because instead of changing by specific item ID, I change the type based on the item settings that are commonly used by throwing weapons.

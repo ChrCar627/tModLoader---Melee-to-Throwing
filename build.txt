@@ -1,0 +1,3 @@
+author = PvtFudgepants
+version = 0.1
+displayName = Melee To Throwing
